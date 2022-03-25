@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A40B0DEA27ED5AEF004F1FBD /* LeaderboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A40B0DE927ED5AEF004F1FBD /* LeaderboardView.swift */; };
 		A42591ED27E2C7760084AB39 /* BullseyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42591EC27E2C7760084AB39 /* BullseyeTests.swift */; };
 		A44897CA27EA385200BB4B59 /* PointsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44897C927EA385200BB4B59 /* PointsView.swift */; };
 		A44BAB3827E800DB0028A0F0 /* RoundedViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44BAB3727E800DB0028A0F0 /* RoundedViews.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A40B0DE927ED5AEF004F1FBD /* LeaderboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderboardView.swift; sourceTree = "<group>"; };
 		A42591EA27E2C7760084AB39 /* BullseyeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullseyeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A42591EC27E2C7760084AB39 /* BullseyeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullseyeTests.swift; sourceTree = "<group>"; };
 		A42591EE27E2C7760084AB39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				A44BAB3727E800DB0028A0F0 /* RoundedViews.swift */,
 				A44BAB3B27E807D00028A0F0 /* BackgroundView.swift */,
 				A44897C927EA385200BB4B59 /* PointsView.swift */,
+				A40B0DE927ED5AEF004F1FBD /* LeaderboardView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				A4FB7A2F27E03BA90042B4DC /* ContentView.swift in Sources */,
 				A44F1A5F27E63EFB005AD1A9 /* TextViews.swift in Sources */,
 				A45B89FF27EB8303000431A3 /* Constants.swift in Sources */,
+				A40B0DEA27ED5AEF004F1FBD /* LeaderboardView.swift in Sources */,
 				A44BAB3827E800DB0028A0F0 /* RoundedViews.swift in Sources */,
 				A44897CA27EA385200BB4B59 /* PointsView.swift in Sources */,
 				A4A249E927E0FF1800B2B7A6 /* Game.swift in Sources */,
